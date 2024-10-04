@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pacutah
-- 👀 I’m interested in working as a data analyst
+- 👋 Hi, I’m Peace Utah 
+- 👀 I’m interested in working as a data analyst and am actively working to improve my skills while carrying you along on my data analyst journey.
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to get hired.
 - 📫 How to reach me peaceutah4154@gmail.com
